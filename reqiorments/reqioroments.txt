@@ -1,0 +1,4 @@
+api:
+scryfall.com
+refrance:
+https://www.youtube.com/watch?v=MlcYxGJRE6c
